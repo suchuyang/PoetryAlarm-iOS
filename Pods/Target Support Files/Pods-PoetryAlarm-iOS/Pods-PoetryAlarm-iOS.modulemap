@@ -1,0 +1,6 @@
+framework module Pods_PoetryAlarm_iOS {
+  umbrella header "Pods-PoetryAlarm-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
